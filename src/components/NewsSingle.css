@@ -1,0 +1,14 @@
+.news-single {
+    margin-top: 50px;
+}
+.news-single-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.news-single img {
+  width: 120px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 7px;
+}

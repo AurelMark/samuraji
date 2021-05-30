@@ -1,0 +1,21 @@
+.article {
+  margin-bottom: 50px;
+}
+
+.article-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.article-content img {
+  max-width: 240px;
+  padding: 5px;
+  border-radius: 7px;
+  height: auto;
+  object-fit: cover;
+}
+
+.article-info {
+    padding: 5px 10px;
+}
