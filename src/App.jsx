@@ -25,7 +25,7 @@ const App = () => {
             style={{ padding: 24, minHeight: 800 }}
           >
             <Switch>
-              <Route exact path="/" component={Homepage} />
+              <Route exact path="/samuraji" component={Homepage} />
               <Route exact path="/news" component={News} />
               <Route exact path="/news/:id" component={Article} />
               <Route exact path="/settings" component={Settings} />
