@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/samuraji/static/css/main.23739eb9.chunk.css",
-    "main.js": "/samuraji/static/js/main.69016eef.chunk.js",
-    "main.js.map": "/samuraji/static/js/main.69016eef.chunk.js.map",
+    "main.js": "/samuraji/static/js/main.0f3c2f3d.chunk.js",
+    "main.js.map": "/samuraji/static/js/main.0f3c2f3d.chunk.js.map",
     "runtime-main.js": "/samuraji/static/js/runtime-main.8f7970f9.js",
     "runtime-main.js.map": "/samuraji/static/js/runtime-main.8f7970f9.js.map",
     "static/css/2.c02757eb.chunk.css": "/samuraji/static/css/2.c02757eb.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.c02757eb.chunk.css",
     "static/js/2.e0f83230.chunk.js",
     "static/css/main.23739eb9.chunk.css",
-    "static/js/main.69016eef.chunk.js"
+    "static/js/main.0f3c2f3d.chunk.js"
   ]
 }
